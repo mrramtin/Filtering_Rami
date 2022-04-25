@@ -389,7 +389,7 @@ print (Fore.WHITE+'')
 print(random.choice(bnr)) #print a baner
 print ('')
 name = input('whats your name ??? enter Your name >>> ') # enter your name :/
-print (Fore.GREEN+'['+Fore.RED+'*'+Fore.GREEN+']'+Fore.WHITE+' Hi ðð '+name+' welcome to mj-reporter >_< ') # print your name is set
+print (Fore.GREEN+'['+Fore.RED+'*'+Fore.GREEN+']'+Fore.WHITE+' Hi ðð '+name+' welcome to Ramti-reporter >_< ') # print your name is set
 print('')
 print (Fore.GREEN+'[#]'+Fore.WHITE+'method 1 ( OLD version )\n')
 print (Fore.GREEN+'[#]'+Fore.WHITE+'method 2 (NEW version )\n')
